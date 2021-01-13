@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Stress test : git, Github & Markdown
 ## Les participants au projet :
 * [Charlotte Moureau](https://github.com/CharlotteMoureau)
@@ -7,3 +8,8 @@
 
 ## Description du projet :
 Nous avons créé un mémo sur le fonctionnement de Git.
+=======
+<script type="text/javascript">
+    alert("I love Git");
+</script>
+>>>>>>> origin/Ricci
